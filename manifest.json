@@ -1,0 +1,20 @@
+{
+  "short_name": "مصاريفي",
+  "name": "مصاريفي - مراقبة والسيطرة على المصاريف الشخصية",
+  "description": "تطبيق متكامل لمراقبة، تحليل، والسيطرة على المصاريف الشخصية والميزانيات",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#0b0f19",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}
